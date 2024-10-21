@@ -1,0 +1,6 @@
+tensorflow
+requests
+streamlit
+pillow
+requests
+selenium

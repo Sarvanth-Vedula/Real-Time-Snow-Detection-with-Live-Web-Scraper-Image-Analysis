@@ -1,0 +1,7 @@
+# Ignore dataset and image files
+dataset/
+images/
+
+# Ignore model and virtual environment
+models/*.keras
+models/tf_venv/
