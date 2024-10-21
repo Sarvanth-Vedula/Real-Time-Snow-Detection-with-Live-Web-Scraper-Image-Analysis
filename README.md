@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## 4. Set Up SimplePush for Notifications
 - Create an account on SimplePush and get your API key.
-- Update the real_time_alerts.py with your SimplePush API key.
+- Update the snow_detection.py with your SimplePush API key.
 
 ### 5. Run the Project with Live Webcam Image Scraping
 ```bash
